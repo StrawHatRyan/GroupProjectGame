@@ -121,3 +121,4 @@ sources/8 = SubResource("TileSetAtlasSource_bt5mj")
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_e1j6l")
 format = 2
+layer_0/tile_data = PackedInt32Array(1507348, 4, 0, 1507349, 4, 0, 1507350, 4, 0, 1507351, 4, 0, 1507352, 4, 0, 1507353, 4, 0, 1507354, 4, 0, 1507355, 4, 0, 1507356, 4, 0, 1507357, 4, 0, 1507358, 4, 0, 1507359, 4, 0, 1507360, 4, 0, 1507361, 4, 0, 1507362, 4, 0, 1507363, 4, 0, 1507364, 4, 0, 1507365, 4, 0, 1507366, 4, 0, 1507367, 4, 0, 1507368, 4, 0)
